@@ -1,0 +1,33 @@
+{
+  "name": "b-c-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atsshadow/b-c-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atsshadow/b-c-bot/issues"
+  },
+  "homepage": "https://github.com/atsshadow/b-c-bot#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/opus": "^0.7.0",
+    "@discordjs/rest": "^0.4.1",
+    "@discordjs/voice": "^0.9.0",
+    "discord-api-types": "^0.32.1",
+    "discord-player": "^5.2.2",
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.1",
+    "opus": "^0.0.0",
+    "rest": "^2.0.0",
+    "voice": "^0.0.0"
+  }
+}
